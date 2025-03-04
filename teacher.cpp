@@ -14,4 +14,8 @@ public:
     void student(){
         cout << "This is student!" << endl;
     }
+
+    void func(){
+        cout << "func" << endl;
+    }
 };
