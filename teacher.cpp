@@ -10,4 +10,8 @@ public:
     void hello(){
         cout << "Hello my class" << endl;
     }
+
+    void student(){
+        cout << "This is student!" << endl;
+    }
 };
