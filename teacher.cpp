@@ -6,4 +6,8 @@ public:
     void print(){
         cout << "This is class Teacher!" << endl;
     }
+
+    void teacher(){
+        cout << "This is TEACHER!" << endl;
+    }
 };
