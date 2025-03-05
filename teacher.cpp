@@ -11,5 +11,6 @@ public:
         cout << "This is TEACHER!" << endl;
         cout << "second commit in teacher branch!" << endl;
         cout << "third commit in teacher branch!" << endl;
+        cout << "four commit in teacher branch!" << endl;
     }
 };
